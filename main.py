@@ -2,7 +2,7 @@ import string
 
 print('DZ13')
 
-inputtedText = str(input('Enter your name of variable pls: '))
+inputtedText = str(input('Enter your range pls: '))
 
 i = 0
 for letter in string.ascii_letters:
